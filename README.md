@@ -5,3 +5,7 @@ my first github project
 ### Header 3
 - bullet1
 - bullet2
+
+  ```
+  print ("Hello world")
+  ```
